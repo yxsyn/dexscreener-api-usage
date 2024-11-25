@@ -30,5 +30,5 @@ To run this bot, you'll need the following:
 Start by cloning the repository:
 
 ```bash
-git clone https://github.com/yxsyn/dexscreener-api-usage.git
+git clone https://github.com/yxsyn/rizzmas-dexscreener-bot.git
 cd rizzmas-dexscreener-bot
