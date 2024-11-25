@@ -2,6 +2,9 @@
 
 This **Python-based Discord bot** fetches real-time token data from the **Dexscreener API** and posts updates to a designated Discord channel. Initially created for the **Rizzmas community**, this bot is now available for anyone who wants to track any token's real-time data in their Discord server. It provides automatic updates on a token's **price (USD)**, **market cap**, and **liquidity**.
 
+![image](https://github.com/user-attachments/assets/1becccef-20ef-496c-bafe-9b57b81a00cf)
+
+
 ## Features
 
 - **Real-time updates** from the **Dexscreener API** for any token.
