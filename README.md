@@ -1,2 +1,2 @@
-# dexscreener-api-usage
-Some people was asking me how i made the $rizzmas bot! here is how
+# $RIZZMAS Dexscreener Bot
+Some people was asking me how i made the $rizzmas bot! here is how, you can simply use the sourcecode!
